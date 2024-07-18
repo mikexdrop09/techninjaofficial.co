@@ -1,0 +1,11 @@
+@media  (max-width: 575px) {
+
+/*WELCOME PAGE*/
+#welcome-page> div>img{
+    display: block;
+    margin: 60px auto;
+    height: auto;
+    width: 100%;
+   }    
+     
+     }
